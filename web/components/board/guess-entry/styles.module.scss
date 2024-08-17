@@ -1,0 +1,29 @@
+.input {
+  border-radius: .5rem;
+  font-size: x-large;
+  text-align: center;
+  margin: .5rem;
+
+  &:hover {
+    border-color: rgb(68, 0, 255);
+    cursor: pointer;
+  }
+
+  &:focus {
+    outline-color: rgb(68, 0, 255);
+  }
+}
+
+.startAndEnd {
+  border-radius: .5rem;
+  font-size: x-large;
+  text-align: center;
+  outline-color: green;
+  margin: .5rem;
+
+  &:disabled {
+    background-color: greenyellow;
+  }
+
+  
+}
