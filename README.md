@@ -3,4 +3,4 @@ Inspired by NYT's Connections, WordLinks is a word categories game enabling cust
 
 Visit it at: [https://main.d1hlpk6rt31y8w.amplifyapp.com/](https://main.d1hlpk6rt31y8w.amplifyapp.com/)
 
-![amplify badge](https://lqpwgcguy6.execute-api.us-west-2.amazonaws.com/test/badges?uuid=7fdfa52f-4ca4-4406-acee-9ccda2530ed048913241)
+![amplify badge](https://lqpwgcguy6.execute-api.us-west-2.amazonaws.com/test/badges?uuid=5af69760-4e06-4d8e-a1fb-8c378d8b3b56)
